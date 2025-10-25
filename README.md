@@ -3,7 +3,7 @@
 ## Commit Messages
 
 - Add issue number followed by colon `:`
-  - For GitHIb and GitLab issue numbers use square brackets `[#123]:`
+  - For GitHub and GitLab issue numbers use square brackets `[#123]:`
   - For Jira issues brackets are not needed `PROJ-123:`
 - Use the imperative, present tense: "Change" not "Changed" nor "Changes"
 - Do capitalize the first letter
